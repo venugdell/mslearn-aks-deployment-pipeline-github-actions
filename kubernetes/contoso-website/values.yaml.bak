@@ -1,0 +1,7 @@
+image:
+  registry: contosocontainerregistry25270   
+  name: contoso-website
+  tag: latest
+
+dns:
+  name: 
